@@ -1,3 +1,5 @@
+<img src='/doc/page_banner.jpg'>
+
 # Table of Contents
 * About Ono Manoa Grindz
 
