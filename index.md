@@ -28,3 +28,21 @@ Possible mockup pages:
 * User profile page
 * Foods available right now page
 * Today’s top picks page
+
+# Case Ideas
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
+
+* New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)
+* Admin goes to landing page, logs in, gets home page, edits site.
+* User goes to landing page, logs in, looks for food to buy.
+* User is notified of daily menu items that match their preferences
+
+# Beyond the Basics
+After implementing the basic functionality, here are ideas for more advanced features:
+
+* Notify students via email, twitter, SMS when particular food choices are available.
+* Automated updating of menu items from vendors. For example, they agree to post their daily specials via twitter, and your application retrieves their twitter feed and uses that data to update their page.
+* Allow students to rate menu items.
+* Integrated map functionality; note that some food trucks change their location over the course of a week.
+* Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
+
