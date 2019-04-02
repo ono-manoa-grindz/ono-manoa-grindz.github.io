@@ -2,14 +2,15 @@
 
 # Table of Contents
 * About Ono Manoa Grindz
+* Approach
+* Case Ideas
+* Beyond the Basics
 
 # About Ono Manoa Grindz
 * The problem: There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
-* The solution: The Manoa Munchie app enables you to login on your phone and determine:
-What specific menu items will be available today at campus center locations;
-What food is available right now.
-When a style of food you love is available today.
+* The solution: The Ono Manoa Grindz enables you to login on your phone and determine:
+What specific menu items will be available today at food locations in UH Manoa;
 
 # Approach
 For this app, you will create a way to organize and present available menu items for all campus locations in a unified manner. There are three roles: Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
@@ -21,7 +22,6 @@ Users should be able to indicate preferences and/or food types to exclude in the
 For places with weekly or daily changing menus, vendors should be able to login to provide this data.
 
 Possible mockup pages:
-
 * Landing page
 * User home page
 * Vendor home page
@@ -29,7 +29,6 @@ Possible mockup pages:
 * Add Vendor page
 * User profile page
 * Foods available right now page
-* Today’s top picks page
 
 # Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
@@ -42,9 +41,10 @@ Whether or not the following bullet points list all pages or not, the completed 
 # Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
 
-* Notify students via email, twitter, SMS when particular food choices are available.
 * Automated updating of menu items from vendors. For example, they agree to post their daily specials via twitter, and your application retrieves their twitter feed and uses that data to update their page.
 * Allow students to rate menu items.
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
+# Team Members
+* Joshua Cruz, Dennis Kim, Ken Tung, and Jason Yim
