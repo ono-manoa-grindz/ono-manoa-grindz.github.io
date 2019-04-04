@@ -49,10 +49,13 @@ After implementing the basic functionality, here are ideas for more advanced fea
 # Page Mockups
 ### Landing Page
 <img src='/doc/Landing Mockup.jpg'>
+
 ### User Home Page
 <img src='/doc/User Home Mockup.jpg'>
+
 ### Admin Home Page
 <img src='/doc/Admin Home Mockup.jpg'>
+
 ### Vendor Home Page
 <img src='/doc/Vendor Home Mockup.jpg'>
 
