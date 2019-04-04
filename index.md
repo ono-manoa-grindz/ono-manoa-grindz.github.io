@@ -46,5 +46,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
+# Page Mockups
+
+
 # Team Members
 * Joshua Cruz, Dennis Kim, Ken Tung, and Jason Yim
