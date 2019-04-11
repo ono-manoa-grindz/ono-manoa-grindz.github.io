@@ -54,7 +54,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/Issue 12 Screenshot.png'>
 
 ### Vendor Home Page
-<img src='/doc/Vendor Home Mockup.jpg'>
+<img src='/doc/vendor_home_page.png'>
 
 ### Vendor List
 <img src='/doc/vendor_list.png'>
