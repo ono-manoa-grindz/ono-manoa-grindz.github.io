@@ -1,5 +1,8 @@
 <img src='/doc/page_banner.jpg'>
 
+#[Github Repo](https://github.com/ono-manoa-grindz)
+#[Running Deployment](http://onomanoagrindz.meteorapp.com)
+
 # Table of Contents
 * About Ono Manoa Grindz
 * Approach
@@ -54,7 +57,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/Add Review M1.png'>
 
 ### Vendor Home Page
-<img src='/doc/Vendor Home M1.png'>
+<img src='/doc/vendor_home_page.png'>
 
 ### Vendor List
 <img src='/doc/List Vendor M1.png'>
