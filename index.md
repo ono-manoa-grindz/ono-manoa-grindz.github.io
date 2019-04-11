@@ -1,8 +1,5 @@
 <img src='/doc/page_banner.jpg'>
 
-# [Github Repo](https://github.com/ono-manoa-grindz)
-# [Running Deployment](http://onomanoagrindz.meteorapp.com)
-
 # Table of Contents
 * About Ono Manoa Grindz
 * Approach
@@ -10,6 +7,10 @@
 * Beyond the Basics
 
 # About Ono Manoa Grindz
+* [Running Deployment](http://onomanoagrindz.meteorapp.com)
+* [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
+* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
+
 The problem: There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
 The solution: The Ono Manoa Grindz enables you to login on your phone and determine:
@@ -57,7 +58,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/Add Review M1.png'>
 
 ### Vendor Home Page
-<img src='/doc/vendor_home_page.png'>
+<img src='/doc/Vendor Home M1.png'>
 
 ### Vendor List
 <img src='/doc/List Vendor M1.png'>
