@@ -54,7 +54,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/Add Review M1.png'>
 
 ### Vendor Home Page
-<img src='/doc/vendor_home_page.png'>
+<img src='/doc/Vendor Home M1.png'>
 
 ### Vendor List
 <img src='/doc/List Vendor M1.png'>
