@@ -64,7 +64,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/List Vendor M1.png'>
 
 ### Add Vendor Page
-<img src='/doc/add_vendor.png'>
+<img src='/doc/Add Vendor M1.png'>
 
 # [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
 The purpose of Milestone 1 was to build the foundation of our website. We began building the landing page, navigation bar, restaurant list page, vendor home page, add vendor page, and adding a review page. After these were built, we deployed it to Galaxy. 
