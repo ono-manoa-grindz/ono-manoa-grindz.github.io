@@ -51,7 +51,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/Landing Page M1.png'>
 
 ### Add Review Page
-<img src='/doc/Issue 12 Screenshot.png'>
+<img src='/doc/Add Review M1.png'>
 
 ### Vendor Home Page
 <img src='/doc/vendor_home_page.png'>
