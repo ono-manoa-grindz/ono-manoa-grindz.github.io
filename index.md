@@ -50,8 +50,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ### Landing Page
 <img src='/doc/Issue 6 Screenshot.png'>
 
-### User Home Page
-<img src='/doc/User Home Mockup.jpg'>
+### Add Review Page
+<img src='/doc/Issue 12 Screenshot.png'>
 
 ### Admin Home Page
 <img src='/doc/Admin Home Mockup.jpg'>
