@@ -1,7 +1,7 @@
 <img src='/doc/page_banner.jpg'>
 
-#[Github Repo](https://github.com/ono-manoa-grindz)
-#[Running Deployment](http://onomanoagrindz.meteorapp.com)
+# [Github Repo](https://github.com/ono-manoa-grindz)
+# [Running Deployment](http://onomanoagrindz.meteorapp.com)
 
 # Table of Contents
 * About Ono Manoa Grindz
