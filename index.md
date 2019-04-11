@@ -48,7 +48,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 # Page Mockups
 ### Landing Page
-<img src='/doc/Issue 6 Screenshot.png'>
+<img src='/doc/Landing Page M1.png'>
 
 ### Add Review Page
 <img src='/doc/Issue 12 Screenshot.png'>
