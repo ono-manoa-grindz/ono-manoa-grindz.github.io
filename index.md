@@ -48,7 +48,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 # Page Mockups
 ### Landing Page
-<img src='/doc/Landing Mockup.jpg'>
+<img src='/doc/Issue 6 Screenshot.jpg'>
 
 ### User Home Page
 <img src='/doc/User Home Mockup.jpg'>
