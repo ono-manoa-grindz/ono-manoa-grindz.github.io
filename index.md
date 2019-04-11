@@ -57,7 +57,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img src='/doc/vendor_home_page.png'>
 
 ### Vendor List
-<img src='/doc/vendor_list.png'>
+<img src='/doc/List Vendor M1.png'>
 
 ### Add Vendor Page
 <img src='/doc/add_vendor.png'>
