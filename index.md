@@ -53,9 +53,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ### Add Review Page
 <img src='/doc/Issue 12 Screenshot.png'>
 
-### Admin Home Page
-<img src='/doc/Admin Home Mockup.jpg'>
-
 ### Vendor Home Page
 <img src='/doc/Vendor Home Mockup.jpg'>
 
