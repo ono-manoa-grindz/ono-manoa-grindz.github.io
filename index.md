@@ -6,10 +6,13 @@
 * Case Ideas
 * Beyond the Basics
 
-# About Ono Manoa Grindz
+# Project Links
 * [Running Deployment](http://onomanoagrindz.meteorapp.com)
 * [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
 * [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
+
+# Overview
+Ono Manoa Grindz serves as the homepage for showcasing the vast variety of cuisines that is served here on the University of Hawaii - Manoa campus.  With a quick visit to our page, you will be able to view all the food service vendors along with user-submitted ratings that we hope will serve useful.
 
 The problem: There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
