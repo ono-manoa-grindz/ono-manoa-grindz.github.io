@@ -1,10 +1,15 @@
 <img src='/doc/page_banner.jpg'>
 
 # Table of Contents
-* About Ono Manoa Grindz
+* Project Links
+* Overview
 * Approach
 * Case Ideas
 * Beyond the Basics
+* Developer Guide
+* User Guide
+* Page Mockups
+* Team Members
 
 # Project Links
 * [Running Deployment](http://onomanoagrindz.meteorapp.com)
@@ -53,22 +58,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
-# Page Mockups
-## Landing Page
-<img src='/doc/Landing Page M1.png'>
-
-## Add Review Page
-<img src='/doc/Add Review M1.png'>
-
-## Vendor Home Page
-<img src='/doc/Vendor Home M1.png'>
-
-## Vendor List
-<img src='/doc/List Vendor M1.png'>
-
-## Add Vendor Page
-<img src='/doc/Add Vendor M1.png'>
-
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
 
@@ -87,13 +76,33 @@ $ meteor npm run start
 ```
 
 # User Guide
+## Landing Page
 <img src='/doc/userguide1.png'>After visiting our landing page, sign up and create and account to have full user privilege permission. Click Login -> Sign up located on the top right of the page.
 
+## Sign in/Sign up Page
 <img src='/doc/userguide2.png'>Here is what the sign in/sign up page looks like.
 
+## User Landing Page
 <img src='/doc/userguide3.png'>After signing in with your new account, the new landing page will look like this. You will see a new category under the navigation bar at the top. You can now view the vendors that are available to you.
 
+## Vendor Page
 <img src='/doc/userguide4.png'>Here is an overview of all the available vendors implemented into our website. In the future, users will be able to create their own appropriate reviews for each vendor on our website.
+
+# Page Mockups
+## Landing Page
+<img src='/doc/Landing Page M1.png'>
+
+## Add Review Page
+<img src='/doc/Add Review M1.png'>
+
+## Vendor Home Page
+<img src='/doc/Vendor Home M1.png'>
+
+## Vendor List
+<img src='/doc/List Vendor M1.png'>
+
+## Add Vendor Page
+<img src='/doc/Add Vendor M1.png'>
 
 # Project Milestones
 ## [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
@@ -105,4 +114,7 @@ The purpose of Milestone 2 was to improve our functionality of our navigation ba
 ## [Milestone 3](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
 
 # Team Members
-* Joshua Cruz, Dennis Kim, Ken Tung, and Jason Yim
+* [Joshua Cruz](https://github.com/cruzjoshua)
+* [Dennis Kim](https://github.com/shinsa2)
+* [Ken Tung](https://github.com/ken-10)
+* [Jason Yim](https://github.com/jygh98)
