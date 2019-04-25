@@ -14,7 +14,7 @@ The problem: There are many food choices on campus: campus center, food trucks, 
 The solution: The Ono Manoa Grindz enables you to login on your phone and determine:
 What specific menu items will be available today at food locations in UH Manoa;
 
-## Project Links
+### Relevant Project Links
 * [Running Deployment](http://onomanoagrindz.meteorapp.com)
 * [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
 * [Github Milestone 2 Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
