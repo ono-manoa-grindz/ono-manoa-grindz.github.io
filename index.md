@@ -6,6 +6,11 @@
 * Case Ideas
 * Beyond the Basics
 
+# Project Links
+* [Running Deployment](http://onomanoagrindz.meteorapp.com)
+* [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
+* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
+
 # Overview
 Ono Manoa Grindz serves as the homepage for showcasing the vast variety of cuisines that is served here on the University of Hawaii - Manoa campus.  With a quick visit to our page, you will be able to view all the food service vendors along with user-submitted ratings that we hope will serve useful.
 
@@ -13,13 +18,6 @@ The problem: There are many food choices on campus: campus center, food trucks, 
 
 The solution: The Ono Manoa Grindz enables you to login on your phone and determine:
 What specific menu items will be available today at food locations in UH Manoa;
-
-### Relevant Project Links
-* [Running Deployment](http://onomanoagrindz.meteorapp.com)
-* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
-* [Github Milestone 2 Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
-* [Github Milestone 3 Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
-
 
 # Approach
 For this app, you will create a way to organize and present available menu items for all campus locations in a unified manner. There are three roles: Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
@@ -88,6 +86,20 @@ Once the libraries are installed, you can run the application by invoking:
 $ meteor npm run start
 ```
 
+## User Guide
+<img src='/doc/userguide1.png'>
+After visiting our landing page, sign up and create and account to have full user privilege permission. Click Login -> Sign up located on the top right of the page.
+
+<img src='/doc/userguide2.png'>
+Here is what the sign in/sign up page looks like.
+
+<img src='/doc/userguide3.png'>
+After signing in with your new account, the new landing page will look like this. You will see a new category under the navigation bar at the top. You can now view the vendors that are available to you.
+
+<img src='/doc/userguide4.png'>
+Here is an overview of all the available vendors implemented into our website. In the future, users will be able to create their own appropriate reviews for each vendor on our website.
+
+## Project Milestones
 # [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
 The purpose of Milestone 1 was to build the foundation of our website. We began building the landing page, navigation bar, restaurant list page, vendor home page, add vendor page, and adding a review page. After these were built, we deployed it to Galaxy. 
 
