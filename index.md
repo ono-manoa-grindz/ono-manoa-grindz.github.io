@@ -6,11 +6,6 @@
 * Case Ideas
 * Beyond the Basics
 
-# Project Links
-* [Running Deployment](http://onomanoagrindz.meteorapp.com)
-* [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
-* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
-
 # Overview
 Ono Manoa Grindz serves as the homepage for showcasing the vast variety of cuisines that is served here on the University of Hawaii - Manoa campus.  With a quick visit to our page, you will be able to view all the food service vendors along with user-submitted ratings that we hope will serve useful.
 
@@ -18,6 +13,13 @@ The problem: There are many food choices on campus: campus center, food trucks, 
 
 The solution: The Ono Manoa Grindz enables you to login on your phone and determine:
 What specific menu items will be available today at food locations in UH Manoa;
+
+## Project Links
+* [Running Deployment](http://onomanoagrindz.meteorapp.com)
+* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
+* [Github Milestone 2 Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
+* [Github Milestone 3 Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
+
 
 # Approach
 For this app, you will create a way to organize and present available menu items for all campus locations in a unified manner. There are three roles: Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
