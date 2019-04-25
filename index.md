@@ -1,7 +1,6 @@
 <img src='/doc/page_banner.jpg'>
 
 # Table of Contents
-* Project Links
 * Overview
 * Approach
 * Case Ideas
@@ -11,18 +10,22 @@
 * Page Mockups
 * Team Members
 
-# Project Links
-* [Running Deployment](http://onomanoagrindz.meteorapp.com)
-* [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
-* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
-
 # Overview
 Ono Manoa Grindz serves as the homepage for showcasing the vast variety of cuisines that is served here on the University of Hawaii - Manoa campus.  With a quick visit to our page, you will be able to view all the food service vendors along with user-submitted ratings that we hope will serve useful.
 
 The problem: There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
 The solution: The Ono Manoa Grindz enables you to login on your phone and determine:
-What specific menu items will be available today at food locations in UH Manoa;
+What specific menu items will be available today at food locations in UH Manoa.
+
+For Milestone 1, we created a basic foundation of our webpage. It consist of the landing page, navigation bar, restaurant list page, vendor home page, add vendor page, and adding a review page.
+
+For Milestone 2, we created several issues that will help our functionality of our website and added more details to our GitHub webpage. We created and overview section, developer guide, and user guide to our GitHub webpage. We also added more functionality to our Add Review Page, filled the vendor database with default vendors, and created an option for admins to edit/delete vendors. Lastly, we added additonal documents to the MongoDB database, fixed our style and design of our website, and cleaned up the navigation bar.
+
+## Project Links
+* [Running Deployment](http://onomanoagrindz.meteorapp.com)
+* [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
+* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
 
 # Approach
 For this app, you will create a way to organize and present available menu items for all campus locations in a unified manner. There are three roles: Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
