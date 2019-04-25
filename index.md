@@ -53,23 +53,23 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
-## Page Mockups
-### Landing Page
+# Page Mockups
+## Landing Page
 <img src='/doc/Landing Page M1.png'>
 
-### Add Review Page
+## Add Review Page
 <img src='/doc/Add Review M1.png'>
 
-### Vendor Home Page
+## Vendor Home Page
 <img src='/doc/Vendor Home M1.png'>
 
-### Vendor List
+## Vendor List
 <img src='/doc/List Vendor M1.png'>
 
-### Add Vendor Page
+## Add Vendor Page
 <img src='/doc/Add Vendor M1.png'>
 
-## [Developer Guide] (Installation)
+# Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
 
 Next [create a local copy of the source code from the following Github Repository](https://github.com/ono-manoa-grindz/ono-manoa-grindz).
@@ -86,7 +86,7 @@ Once the libraries are installed, you can run the application by invoking:
 $ meteor npm run start
 ```
 
-## User Guide
+# User Guide
 <img src='/doc/userguide1.png'>After visiting our landing page, sign up and create and account to have full user privilege permission. Click Login -> Sign up located on the top right of the page.
 
 <img src='/doc/userguide2.png'>Here is what the sign in/sign up page looks like.
@@ -95,11 +95,14 @@ $ meteor npm run start
 
 <img src='/doc/userguide4.png'>Here is an overview of all the available vendors implemented into our website. In the future, users will be able to create their own appropriate reviews for each vendor on our website.
 
-## Project Milestones
-### [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
+# Project Milestones
+## [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
 The purpose of Milestone 1 was to build the foundation of our website. We began building the landing page, navigation bar, restaurant list page, vendor home page, add vendor page, and adding a review page. After these were built, we deployed it to Galaxy. 
 
-### [Milestone 2](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
+## [Milestone 2](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
+The purpose of Milestone 2 was to improve our functionality of our navigation bar, restaurant list page, vendor home page, and add vendor page. We also added a few design changes to our website. After completing these tasks, we deployed our new webpage to Galaxy.
+
+## [Milestone 3](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
 
 # Team Members
 * Joshua Cruz, Dennis Kim, Ken Tung, and Jason Yim
