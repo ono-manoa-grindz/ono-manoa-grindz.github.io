@@ -80,16 +80,20 @@ $ meteor npm run start
 
 # User Guide
 ### Landing Page
-<img src='/doc/userguide1.png'>After visiting our landing page, sign up and create and account to have full user privilege permission. Click Login -> Sign up located on the top right of the page.
+When you first get to the page, you will be greeted with the landing page shown below.
+<img src='/doc/userguide1.png'>
 
 ### Sign in/Sign up Page
-<img src='/doc/userguide2.png'>Here is what the sign in/sign up page looks like.
+You can log in or register for an account if you do not have one by clicking the log in icon in the top right corner of the landing page. You will be redirected to the page shown below.
+<img src='/doc/userguide2.png'>
 
 ### User Landing Page
-<img src='/doc/userguide3.png'>After signing in with your new account, the new landing page will look like this. You will see a new category under the navigation bar at the top. You can now view the vendors that are available to you.
+After signing in with your new account, the new landing page will look like this. You will see a new category under the navigation bar at the top. You can now view the vendors that are available to you.
+<img src='/doc/userguide3.png'>
 
 ### Vendor Page
-<img src='/doc/userguide4.png'>Here is an overview of all the available vendors implemented into our website. In the future, users will be able to create their own appropriate reviews for each vendor on our website.
+Here is an overview of all the available vendors implemented into our website. In the future, users will be able to create their own appropriate reviews for each vendor on our website.
+<img src='/doc/userguide4.png'>
 
 # Page Mockups
 ### Landing Page
