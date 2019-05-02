@@ -65,9 +65,9 @@ After implementing the basic functionality, here are ideas for more advanced fea
 # Community Feedback
 With the help of our fellow colleagues, we managed to receive feedback of our website.
 
-* [David Liang](https://github.com/davidvliang)
+### [David Liang](https://github.com/davidvliang)
 <img style="width:100px;height:100px;" src='/doc/david.jpg'>
-## "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+#### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
 
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
