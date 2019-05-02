@@ -5,6 +5,7 @@
 * Approach
 * Case Ideas
 * Beyond the Basics
+* Community Feedback
 * Developer Guide
 * User Guide
 * Page Mockups
@@ -60,6 +61,13 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Allow students to rate menu items.
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
+
+# Community Feedback
+With the help of our fellow colleagues, we managed to receive feedback of our website.
+
+* [David Liang](https://github.com/davidvliang)
+<img src='/doc/david.jpg'>
+## "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
 
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
