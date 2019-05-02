@@ -66,7 +66,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 With the help of our fellow colleagues, we managed to receive feedback of our website.
 
 * [David Liang](https://github.com/davidvliang)
-<img src='/doc/david.jpg'>
+<img style="width:300px;height:300px;" src='/doc/david.jpg'>
 ## "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
 
 # Developer Guide (Installation)
