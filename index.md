@@ -63,11 +63,11 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
 # Community Feedback
-With the help of our fellow colleagues, we managed to receive feedback of our website.
+With the help of our fellow colleagues, we managed to receive feedback for our website.
 
 ### [David Liang](https://github.com/davidvliang)
-<img style="width:100px;height:100px;" src='/doc/david.jpg'>
-#### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+<img style="width:100px;height:100px;" src='/doc/david.jpg'>#### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+
 
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
