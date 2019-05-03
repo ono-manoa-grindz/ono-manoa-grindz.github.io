@@ -83,7 +83,7 @@ With the help of our fellow colleagues and friends from outside of the field, we
 
 ### [Jacob Burke](https://github.com/jacobjkburke)
 <img style="width:200px;height:200px;" src='/doc/jacob.jpg'>
-##### *As an upcoming UX Designer at University of Washington, I can see visual improvement being added into this website however, this is still a great implementation of React/Meteor. Being born and raised in Manoa and always within the UH campus, I can't wait to use this website whenever I am visiting my parents back in Hawaii!*
+##### *"As an upcoming UX Designer at University of Washington, I can see visual improvement being added into this website however, this is still a great implementation of React/Meteor. Being born and raised in Manoa and always within the UH campus, I can't wait to use this website whenever I am visiting my parents back in Hawaii!"*
 
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
