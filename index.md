@@ -67,23 +67,23 @@ With the help of our fellow colleagues and friends from outside of the field, we
 
 ### [David Liang](https://github.com/davidvliang)
 <img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+##### *"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
 
 ### [Isaac Lee](https://github.com/ilee72)
 <img style="width:200px;height:200px;" src='/doc/isaac.jpg'>
-##### "My classes are always located near the Holmes building and I did not know that there were two food trucks alternating at different times"
+##### *"My classes are always located near the Holmes building and I did not know that there were two food trucks alternating at different times! With this website, I was able to find each vendors' operating hours in UH Manoa."*
 
 ### [David Liang](https://github.com/davidvliang)
 <img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+##### *"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
 
 ### [David Liang](https://github.com/davidvliang)
 <img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+##### *"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
 
-### [David Liang](https://github.com/davidvliang)
-<img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+### [Jacob Burke](https://github.com/jacobjkburke)
+<img style="width:200px;height:200px;" src='/doc/jacob.jpg'>
+##### *As an upcoming UX Designer at University of Washington, I can see visual improvement being added into this website however, this is still a great implementation of React/Meteor. Being born and raised in Manoa and always within the UH campus, I can't wait to use this website whenever I am visiting my parents back in Hawaii!*
 
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
