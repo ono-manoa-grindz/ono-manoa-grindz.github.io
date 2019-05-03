@@ -63,15 +63,15 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
 # Community Feedback
-With the help of our fellow colleagues, we managed to receive feedback for our website.
+With the help of our fellow colleagues and friends from outside of the field, we managed to receive feedback for our website.
 
 ### [David Liang](https://github.com/davidvliang)
 <img style="width:200px;height:200px;" src='/doc/david.jpg'>
 ##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
 
-### [David Liang](https://github.com/davidvliang)
-<img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+### [Isaac Lee](https://github.com/ilee72)
+<img style="width:200px;height:200px;" src='/doc/isaac.jpg'>
+##### "My classes are always located near the Holmes building and I did not know that there were two food trucks alternating at different times"
 
 ### [David Liang](https://github.com/davidvliang)
 <img style="width:200px;height:200px;" src='/doc/david.jpg'>
