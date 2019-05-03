@@ -73,13 +73,13 @@ With the help of our fellow colleagues and friends from outside of the field, we
 <img style="width:200px;height:200px;" src='/doc/isaac.jpg'>
 ##### *"My classes are always located near the Holmes building and I did not know that there were two food trucks alternating at different times! With this website, I was able to find each vendors' operating hours in UH Manoa."*
 
-### [David Liang](https://github.com/davidvliang)
-<img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### *"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
+### [Brandon Wong](https://github.com/bmwfire)
+<img style="width:200px;height:200px;" src='/doc/brandon.jpg'>
+##### *"I do not usually purchase food on campus but when I do have a taco craving, there is a Taco truck located near Campus Center. The food truck's operating hours are 10:00 AM to 2:00 PM. Without this website, I wouldn't have satisfied my taco craving on that day. Other than that, Ono Manoa Grindz did a great job in implementing the review section of their website as is it very simple to use and navigate through."*
 
-### [David Liang](https://github.com/davidvliang)
-<img style="width:200px;height:200px;" src='/doc/david.jpg'>
-##### *"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
+### [Japhet Ye](https://github.com/japhet-ye)
+<img style="width:200px;height:200px;" src='/doc/japhet.jpg'>
+##### *"As a user of Ono Manoa Grindz, navigating through the website was fairly easy to understand. The entire concept of the website is similar with Yelp but with food places only on UH Manoa. I'd say they did a great job for this project assignment."*
 
 ### [Jacob Burke](https://github.com/jacobjkburke)
 <img style="width:200px;height:200px;" src='/doc/jacob.jpg'>
