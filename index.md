@@ -66,19 +66,19 @@ After implementing the basic functionality, here are ideas for more advanced fea
 With the help of our fellow colleagues and friends from outside of the field, we managed to receive feedback for our website.
 
 ### Kristen Kim
-##### "Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."
+*"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
 
 ### Kevin Nguyen
-##### "My classes are always located near the Holmes building and I did not know that there were two food trucks alternating at different times! With this website, I was able to find each vendors' operating hours in UH Manoa."
+*"My classes are always located near the Holmes building and I did not know that there were two food trucks alternating at different times! With this website, I was able to find each vendors' operating hours in UH Manoa."*
 
 ### Robert Lee
-##### "I do not usually purchase food on campus but when I do have a taco craving, there is a Taco truck located near Campus Center. The food truck's operating hours are 10:00 AM to 2:00 PM. Without this website, I wouldn't have satisfied my taco craving on that day. Other than that, Ono Manoa Grindz did a great job in implementing the review section of their website as is it very simple to use and navigate through."
+*"I do not usually purchase food on campus but when I do have a taco craving, there is a Taco truck located near Campus Center. The food truck's operating hours are 10:00 AM to 2:00 PM. Without this website, I wouldn't have satisfied my taco craving on that day. Other than that, Ono Manoa Grindz did a great job in implementing the review section of their website as is it very simple to use and navigate through."*
 
 ### Kenneth Mai
-##### "As a user of Ono Manoa Grindz, navigating through the website was fairly easy to understand. The entire concept of the website is similar with Yelp but with food places only on UH Manoa. I'd say they did a great job for this project assignment."
+*"As a user of Ono Manoa Grindz, navigating through the website was fairly easy to understand. The entire concept of the website is similar with Yelp but with food places only on UH Manoa. I'd say they did a great job for this project assignment."*
 
 ### [Jacob Burke](https://github.com/jacobjkburke)
-##### "As an upcoming UX Designer at University of Washington, I can see visual improvement being added into this website however, this is still a great implementation of React/Meteor. Being born and raised in Manoa and always within the UH campus, I can't wait to use this website whenever I am visiting my parents back in Hawaii!"
+*"As an upcoming UX Designer at University of Washington, I can see visual improvement being added into this website however, this is still a great implementation of React/Meteor. Being born and raised in Manoa and always within the UH campus, I can't wait to use this website whenever I am visiting my parents back in Hawaii!"*
 
 # Developer Guide (Installation)
 Begin by [installing Meteor]( https://www.meteor.com/install).
