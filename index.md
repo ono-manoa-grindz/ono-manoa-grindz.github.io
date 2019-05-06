@@ -64,7 +64,7 @@ With the help of our fellow colleagues and friends from outside of the field, we
 
 
 # Developer Guide (Installation)
-Begin by [installing Meteor]( https://www.meteor.com/install).
+If you would like to directly install our application, to this by [installing Meteor]( https://www.meteor.com/install).
 
 Next [create a local copy of the source code from the following Github Repository](https://github.com/ono-manoa-grindz/ono-manoa-grindz).
 
@@ -82,7 +82,7 @@ $ meteor npm run start
 
 # User Guide
 ### Landing Page
-To get to our landing page, click [Running Deployment](http://onomanoagrindz.meteorapp.com). When you first get to the page, you will be greeted with the landing page shown below. The page will render the top three rated restaurants on this website.
+To get to our landing page, click our [Running Deployment](http://onomanoagrindz.meteorapp.com) page. When you first get to the page, you will be greeted with the landing page shown below. The page will render the top three rated restaurants on this website.
 <img src='/doc/newuserguide1.png'>
 
 ### Sign in/Sign up Page
