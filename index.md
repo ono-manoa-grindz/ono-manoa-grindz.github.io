@@ -2,9 +2,7 @@
 
 # Table of Contents
 * Overview
-* Approach
-* Case Ideas
-* Beyond the Basics
+* Project Milestones
 * Community Feedback
 * Developer Guide
 * User Guide
@@ -39,6 +37,17 @@ For Milestone 3, our main goal was to improve Milestone 2's functionality. We im
 * Add Vendor page
 * User profile page
 * Foods available right now page
+
+
+# Project Milestones
+### [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
+The purpose of Milestone 1 was to build the foundation of our website. We began building the landing page, navigation bar, restaurant list page, vendor home page, add vendor page, and adding a review page. After these were built, we deployed it to Galaxy. 
+
+### [Milestone 2](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
+The purpose of Milestone 2 was to improve our functionality of our navigation bar, restaurant list page, vendor home page, and add vendor page. We also added a few design changes to our website. After completing these tasks, we deployed our new webpage to Galaxy.
+
+### [Milestone 3](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
+The purpose of Milestone 3 was to significantly improve the functionality of our system from M2. We did this by adding a search function into our "List all Vendors" page, implemented a review function for users to add reviews to each vendor of their own choice, added the menu/vendor's description database into our own, and rendered the top three restaurants on our landing page.
 
 # Community Feedback
 With the help of our fellow colleagues and friends from outside of the field, we managed to receive feedback for our website. We have asked their consent to post their names on our homepage.
@@ -79,6 +88,7 @@ Once the libraries are installed, you can run the application by invoking:
 ```
 $ meteor npm run start
 ```
+
 
 # User Guide
 ### Landing Page
@@ -129,15 +139,6 @@ Admins may add their own vendors of their own choice but for obivous reasons, th
 ### Add Vendor Page
 <img src='/doc/Add Vendor M1.png'>
 
-# Project Milestones
-### [Milestone 1](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/1)
-The purpose of Milestone 1 was to build the foundation of our website. We began building the landing page, navigation bar, restaurant list page, vendor home page, add vendor page, and adding a review page. After these were built, we deployed it to Galaxy. 
-
-### [Milestone 2](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/2)
-The purpose of Milestone 2 was to improve our functionality of our navigation bar, restaurant list page, vendor home page, and add vendor page. We also added a few design changes to our website. After completing these tasks, we deployed our new webpage to Galaxy.
-
-### [Milestone 3](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
-The purpose of Milestone 3 was to significantly improve the functionality of our system from M2. We did this by adding a search function into our "List all Vendors" page, implemented a review function for users to add reviews to each vendor of their own choice, added the menu/vendor's description database into our own, and rendered the top three restaurants on our landing page.
 
 # Team Members
 * [Joshua Cruz](https://github.com/cruzjoshua)
