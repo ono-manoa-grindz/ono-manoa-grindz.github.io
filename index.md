@@ -26,8 +26,8 @@ For Milestone 2, we created several issues that will help our functionality of o
 ### Project Links
 * [Running Deployment](http://onomanoagrindz.meteorapp.com)
 * [GitHub Homepage](https://ono-manoa-grindz.github.io)
-* [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
-* [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
+* [GitHub Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
+* [GitHub Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
 
 # Approach
 For this app, you will create a way to organize and present available menu items for all campus locations in a unified manner. There are three roles: Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
@@ -105,20 +105,36 @@ $ meteor npm run start
 
 # User Guide
 ### Landing Page
-When you first get to the page, you will be greeted with the landing page shown below.
-<img src='/doc/userguide1.png'>
+To get to our landing page, click [Running Deployment](http://onomanoagrindz.meteorapp.com). When you first get to the page, you will be greeted with the landing page shown below. The page will render the top three rated restaurants on this website.
+<img src='/doc/newuserguide1.png'>
 
 ### Sign in/Sign up Page
-You can log in or register for an account if you do not have one by clicking the log in icon in the top right corner of the landing page. You will be redirected to the page shown below.
-<img src='/doc/userguide2.png'>
+Sign up with your existing account with the sign in page shown below.
+<img src='/doc/newuserguide2.png'>
+
+### Register your own account
+If you do not have an account, press "Click here to register" to quickly sign up for an account. Register page is shown below.
+<img src='/doc/newuserguide3.png'>
 
 ### User Landing Page
 After signing in with your new account, the new landing page will look like this. You will see a new category under the navigation bar at the top. You can now view the vendors that are available to you.
-<img src='/doc/userguide3.png'>
+<img src='/doc/newuserguide4.png'>
 
 ### Vendor Page
-Here is an overview of all the available vendors implemented into our website. In the future, users will be able to create their own appropriate reviews for each vendor on our website.
-<img src='/doc/userguide4.png'>
+Here is an overview of all the available vendors implemented into our website.
+<img src='/doc/newuserguide5.png'>
+
+### Vendor Home Page
+Users may now view the vendor's information and add their own review and stars to each vendors on the website. The ratings and reviews will be shown below the "Add review" form.
+<img src='/doc/newuserguide6.png'>
+
+### Admin Home Page
+To become an admin, you must contact one of the project developers to be manually added as an "Admin" role for your account. If you are an admin, this is your new landing page.
+<img src='/doc/newuserguide7.png'>
+
+### Admin Add Vendor Page
+Admins may add their own vendors of their own choice but for obivous reasons, they have to be located near, in, or within the UH campus.
+<img src='/doc/newuserguide8.png'>
 
 # Page Mockups
 ### Landing Page
