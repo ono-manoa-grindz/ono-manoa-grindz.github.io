@@ -137,6 +137,7 @@ The purpose of Milestone 1 was to build the foundation of our website. We began 
 The purpose of Milestone 2 was to improve our functionality of our navigation bar, restaurant list page, vendor home page, and add vendor page. We also added a few design changes to our website. After completing these tasks, we deployed our new webpage to Galaxy.
 
 ### [Milestone 3](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects/3)
+The purpose of Milestone 3 was to significantly improve the functionality of our system from M2. We did this by adding a search function into our "List all Vendors" page, implemented a review function for users to add reviews to each vendor of their own choice, added the menu/vendor's description database into our own, and rendered the top three restaurants on our landing page.
 
 # Team Members
 * [Joshua Cruz](https://github.com/cruzjoshua)
