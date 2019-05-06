@@ -23,20 +23,13 @@ For Milestone 1, we created a basic foundation of our webpage. It consist of the
 
 For Milestone 2, we created several issues that will help our functionality of our website and added more details to our GitHub webpage. We created and overview section, developer guide, and user guide to our GitHub webpage. We also added more functionality to our Add Review Page, filled the vendor database with default vendors, and created an option for admins to edit/delete vendors. Lastly, we added additonal documents to the MongoDB database, fixed our style and design of our website, and cleaned up the navigation bar.
 
+For Milestone 3, our main goal was to improve Milestone 2's functionality. We implemented the vendor database from a credible source into our own database, improved the menu page and description page for each vendors, added a reviews database collection with an "Add review" form, implemented a search bar into our "List all vendors" home page, and we were able to render the top three rated restaurants into our landing page. We also cleaned up the footer to make it stick to the bottom of the page. Lastly, we improved our GitHub homepage.
+
 ### Project Links
 * [Running Deployment](http://onomanoagrindz.meteorapp.com)
 * [GitHub Homepage](https://ono-manoa-grindz.github.io)
 * [GitHub Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
 * [GitHub Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
-
-# Approach
-For this app, you will create a way to organize and present available menu items for all campus locations in a unified manner. There are three roles: Users, who can login to establish preferences for their food choices; Vendors, who can login to specify their choices of the day or otherwise modify their profile data; and Admins, who also can login to define users as having the vendor role and otherwise administer the system.
-
-Your app should provide a consolidated, easy to use source directory of menu items taken from the UHM Food Vendors and Manoa Dining Services. In addition to organizing menus by vendor, you should also organize the data by menu item type (ethnicity, vegan, etc.).
-
-Users should be able to indicate preferences and/or food types to exclude in their profile, which will help the app to present more useful choices.
-
-For places with weekly or daily changing menus, vendors should be able to login to provide this data.
 
 ### Possible mockup pages:
 * Landing page
@@ -47,24 +40,8 @@ For places with weekly or daily changing menus, vendors should be able to login 
 * User profile page
 * Foods available right now page
 
-# Case Ideas
-Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
-
-* New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)
-* Admin goes to landing page, logs in, gets home page, edits site.
-* User goes to landing page, logs in, looks for food to buy.
-* User is notified of daily menu items that match their preferences
-
-# Beyond the Basics
-After implementing the basic functionality, here are ideas for more advanced features:
-
-* Automated updating of menu items from vendors. For example, they agree to post their daily specials via twitter, and your application retrieves their twitter feed and uses that data to update their page.
-* Allow students to rate menu items.
-* Integrated map functionality; note that some food trucks change their location over the course of a week.
-* Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
-
 # Community Feedback
-With the help of our fellow colleagues and friends from outside of the field, we managed to receive feedback for our website.
+With the help of our fellow colleagues and friends from outside of the field, we managed to receive feedback for our website. We have asked their consent to post their names on our homepage.
 
 ### Kristen Kim
 *"Great website! I managed to find convenient food places in the UH Manoa Campus. I've always wanted to know what kind of food each vendor is serving."*
