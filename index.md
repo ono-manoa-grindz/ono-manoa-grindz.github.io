@@ -25,6 +25,7 @@ For Milestone 2, we created several issues that will help our functionality of o
 
 ### Project Links
 * [Running Deployment](http://onomanoagrindz.meteorapp.com)
+* [GitHub Homepage](https://ono-manoa-grindz.github.io)
 * [Github Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
 * [Github Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
 
