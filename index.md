@@ -24,7 +24,7 @@ For Milestone 2, we created several issues that will help our functionality of o
 For Milestone 3, our main goal was to improve Milestone 2's functionality. We implemented the vendor database from a credible source into our own database, improved the menu page and description page for each vendors, added a reviews database collection with an "Add review" form, implemented a search bar into our "List all vendors" home page, and we were able to render the top three rated restaurants into our landing page. We also cleaned up the footer to make it stick to the bottom of the page. Lastly, we improved our GitHub homepage.
 
 ### Project Links
-* [Running Deployment](http://onomanoagrindz.meteorapp.com)
+* [Running Deployment](http://ono-manoa-grindz.meteorapp.com)
 * [GitHub Homepage](https://ono-manoa-grindz.github.io)
 * [GitHub Project Board](https://github.com/ono-manoa-grindz/ono-manoa-grindz/projects)
 * [GitHub Source Code](https://github.com/ono-manoa-grindz/ono-manoa-grindz)
